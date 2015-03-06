@@ -8,5 +8,5 @@ m = move in current direction
 t = toggle current direction
 r = remove current node
 c = copy current node
-i = insert node
-d = something with a node.
+i = increment node by i value in input.txt
+d = decrement node by d value in input.txt
